@@ -50,7 +50,7 @@
   "dependencies": {
     "nan": "^2.14.0",
     "node-pre-gyp": "^0.11.0",
-    "simple-get": "^3.0.3"
+    "simple-get": "^4.0.1"
   },
   "devDependencies": {
     "@types/node": "^10.12.18",
